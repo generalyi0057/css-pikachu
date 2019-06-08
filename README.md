@@ -8,7 +8,5 @@ When I was still working in a company, I once saw my colleague used css to draw 
 
 June 7th, 2019, on the spur of the moment, I decided to make a pikachu... and review css.
 
-<a href="https://github.com/WeiChiaChang" target="_blank">Wei Chia Chang</a> ---> a versatile person (^^)ｂ
-
 ## ©️ License
 MIT © Daniel Chiang
