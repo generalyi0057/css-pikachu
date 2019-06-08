@@ -13,11 +13,10 @@ body {
   height: 100%;
 }
 
-.face {
+.pikachu .face {
   flex: 1 1 auto;
   position: relative;
   margin: 0 auto;
-  /* padding: 5% 3%; */
   max-width: 800px;
 }
 
@@ -25,27 +24,31 @@ body {
   display: flex;
   justify-content: center;
 }
+
 .pikachu .face .eyes .eye {
   position: relative;
   width: 15%;
-  /* height: 80px; */
-
 }
+
 .pikachu .face .eyes .eye .eyeball {
   width: 100%;
   padding-top: 100%;
   border-radius: 50%;
   background-color: #222;
 }
+
 .pikachu .face .eyes .eye.left {
   margin-right: 26%;
 }
+
 .pikachu .face .eyes .eye.left .eyeball {
   color: inherit;
 }
+
 .pikachu .face .eyes .eye.right {
   margin-left: 26%;
 }
+
 .pikachu .face .eyes .eye::before {
   position: absolute;
   content: '';
@@ -71,9 +74,8 @@ body {
   position: relative;
   margin: -2.5% auto 0;
   width: 5%;
-  /* height: 14px; */
-
 }
+
 .pikachu .face .nose .nose-tip {
   border-radius: 80%;
   width: 100%;
@@ -90,8 +92,8 @@ body {
 .pikachu .face .cheeks .cheek {
   position: relative;
   width: 16%;
-  /* height: 75px; */
 }
+
 .pikachu .face .cheeks .cheek .electrode {
   position: absolute;
   width: 100%;
@@ -99,6 +101,7 @@ body {
   border-radius: 50%;
   background-color: #F71F39;
 }
+
 .pikachu .face .cheeks .cheek.left {
   margin-right: 30%;
 }
