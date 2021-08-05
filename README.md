@@ -1,5 +1,7 @@
 # CSS Pikachu
 
+Using CSS to draw Pikachu
+
 ## Inspiration
 
 It has been a long since last time I write a program.
